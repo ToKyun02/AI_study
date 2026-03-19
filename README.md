@@ -5,7 +5,7 @@
 
 ### 그래프 확인 방법
 1. repo에 있는 graph.excalidraw 다운로드
-2. https://https://excalidraw.com 접속
+2. https://excalidraw.com 접속
 3. graph.excalidraw DnD(드래그 앤 드랍)
 
 
